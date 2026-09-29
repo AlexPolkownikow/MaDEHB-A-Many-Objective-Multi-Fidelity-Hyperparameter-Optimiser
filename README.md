@@ -1,6 +1,9 @@
 # MaDEHB: A Many-Objective Multi-Fidelity Hyperparameter Optimiser
+See "many_objective_benchmarking.py" for examplary use.
 
-Dependencies: Python 3.10.4 and the following pip packages:
+# Dependencies
+
+Python 3.10.4 and the following pip packages:
 
 <pre>
 Package                Version         
