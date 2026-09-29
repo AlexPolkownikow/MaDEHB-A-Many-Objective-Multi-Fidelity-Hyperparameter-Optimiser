@@ -1,0 +1,39 @@
+{
+  "results": [
+    {
+      "config": {
+        "OpenML_task_id": "167152",
+        "batch_size": 18,
+        "learning_rate": 0.005366966534159724,
+        "max_dropout": 0.0044710488423883145,
+        "max_units": 947,
+        "momentum": 0.9804904393466102,
+        "num_layers": 3,
+        "weight_decay": 0.00011771698796278397
+      },
+      "fitness": [
+        -98.50553131103516,
+        0.09873222559690475
+      ],
+      "elapsed_time": 10.41311502456665
+    },
+    {
+      "config": {
+        "OpenML_task_id": "167152",
+        "batch_size": 18,
+        "learning_rate": 0.005382143059813965,
+        "max_dropout": 0.004242508795741319,
+        "max_units": 947,
+        "momentum": 0.9804904393466102,
+        "num_layers": 3,
+        "weight_decay": 0.00011771698796278397
+      },
+      "fitness": [
+        -98.50590515136719,
+        0.0987342819571495
+      ],
+      "elapsed_time": 10.504507780075073
+    }
+  ],
+  "timestamp": null
+}
